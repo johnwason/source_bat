@@ -8,5 +8,5 @@ To install, copy source_bat.bash to a directory contained in $PATH. Optionally a
 
 Example usage in Git Bash to initialize for use with MSVC compilers:
 
-    source_bat c:/Program\ Files\ \(x86\)/Microsoft\ Visual\ Studio/2019/Community/VC/Auxiliary/Build/vcvars64.bat
+    source source_bat.bash c:/Program\ Files\ \(x86\)/Microsoft\ Visual\ Studio/2019/Community/VC/Auxiliary/Build/vcvars64.bat
 
